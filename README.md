@@ -87,7 +87,7 @@ O dashboard foi desenvolvido em **uma única página**, contendo:
 
 > 📌 O foco do design foi clareza, organização visual e interpretação educacional dos dados.
 
-*(Adicione aqui a imagem do dashboard, se desejar)*
+<img width="1318" height="710" alt="dashboard_enem_2019" src="https://github.com/user-attachments/assets/2f4e2949-d88f-4c33-a7a8-0a42cab67dbe" />
 
 ---
 
